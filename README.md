@@ -37,7 +37,7 @@
 
 **Задание: начало работы с replit**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tHOyDVBxBvU?si=Z7BiY2hGEDna2RiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Видеоинструкция](https://www.youtube.com/embed/tHOyDVBxBvU?si=Z7BiY2hGEDna2RiM)
 
 1. Зарегистрируйтесь в replit.com. Для регистрации перейдите по [ссылке](https://replit.com/).
 2. Создайте новый проект с кодом Python.
