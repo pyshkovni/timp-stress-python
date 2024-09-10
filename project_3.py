@@ -7,4 +7,4 @@
 # могут потребоваться еще зависимости
 
 # Ссылка на бот: https://t.me/case1_project3_bot
-# Токен для бота можно взять по ссылке: https://disk.yandex.ru/d/SZUbCUanyi9Ptg
+# Токен для бота можно взять по ссылке: https://disk.yandex.ru/d/WOJXIwCwRkNGig
