@@ -1,0 +1,1 @@
+# тг-бот переводчик https://yandex.cloud/ru/docs/translate/operations/translate#python_1

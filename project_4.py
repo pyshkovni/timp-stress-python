@@ -1,16 +1,11 @@
 ## project_4
-# телеграм-бот, который показывает информацию о погоде c Яндекса
+# Discord-bot, который здоровается и на вопрос "как дела?" дает три случайных ответа
 
 ## Необходимые зависимости 
-# pyTelegramBotAPI
-# requests
+# discord.py
+# random
 # могут потребоваться еще зависимости
 
-# Ссылка на бот: https://t.me/case1_project4_bot
-# Токен для бота можно взять по ссылке: https://disk.yandex.ru/d/7L5ZLkqZNQkdlg
+# Приглашение на сервер discord с ботом: https://discord.gg/RG2HHrW5
+# Токен для бота можно взять по ссылке: https://disk.yandex.ru/d/S6NfJkub1n3xIw
 
-# Ссылка на документацию по Яндекс погоде
-# От туда лучше взять пример для доступа к погоде
-# https://yandex.ru/pogoda/b2b/console/api-page
-
-# Ключ для вставки в URL возьмите по ссылке: https://disk.yandex.ru/d/ZZXufLBA6G-0jQ
