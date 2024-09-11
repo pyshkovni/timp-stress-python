@@ -6,7 +6,7 @@
 # requests
 # могут потребоваться еще зависимости
 
-# Приглашение на сервер discord с ботом: https://discord.gg/YZQCg6KW
+# Приглашение на сервер discord с ботом: https://discord.gg/NvBRCTvD
 # Токен для бота можно взять по ссылке: https://disk.yandex.ru/d/srmJLWcjn-wBng
 
 # Ссылка на источник
