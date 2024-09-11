@@ -7,5 +7,5 @@
 # могут потребоваться еще зависимости
 
 # Приглашение на сервер discord с ботом: https://discord.gg/RG2HHrW5
-# Токен для бота можно взять по ссылке: https://disk.yandex.ru/d/S6NfJkub1n3xIw
+# Токен для бота можно взять по ссылке: https://disk.yandex.ru/d/BVjfiqaFkcxXcQ
 

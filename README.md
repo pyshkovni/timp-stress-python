@@ -1,5 +1,7 @@
 # Кейс 1. Стресс-Python
+
 2 пары
+
 [Презентация кейса](https://docs.google.com/presentation/d/1fm0sLnXBc6ovACr1Jg0WKpqVzoz2jfxI6zf1MqxSEk4/edit?usp=sharing)
 
 ## Вводная информация
