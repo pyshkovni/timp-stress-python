@@ -73,14 +73,10 @@ print(2 + 2)
    * [project_6.py](project_6.py)
    * [project_7.py](project_7.py)
    * [project_8.py](project_8.py)
+   * [project_9.py](project_9.py)
+   * [project_10.py](project_10.py)
 5. Выполните проект ЛЮБЫМ СПОСОБОМ, чтобы не остаться с долгом по дисциплине.
 6. Подготовьтесь к защите проекта
-
-_Примечание!_
-
-В проект replit можно приглашать участников и работать совместно через кнопку `Invite`.
-
-![replit1](img/replit1.png)
 
 ## Сдача результатов
 
